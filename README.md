@@ -13,8 +13,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ## Tailwind CSS
 
-This project uses Tailwind CSS with the official Vite plugin.
-Tailwind CSS is configured using @tailwindcss/vite in vite.config.js:
+This project uses Tailwind CSS with the official Vite plugin. Tailwind CSS is configured using @tailwindcss/vite in vite.config.js:
 
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
